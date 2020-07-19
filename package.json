@@ -4,7 +4,8 @@
   "description": "Store Manager API",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "start:prod": "node index.js"
   },
   "author": "DevCareer Progate",
   "license": "MIT",
